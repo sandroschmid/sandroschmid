@@ -4,6 +4,6 @@
 
 ### Hi there 👋
 
-I am a Senior Software Engineer and Team Lead located in Austria. I do full stack web-engineering and cloud things.
+I am a Software Engineer, freelancer and trainer located in Austria. I do full stack web-engineering and cloud things.
 
-Visit me at [sandroschmid.cloud](https://sandroschmid.cloud/)
+Visit me at [cloudschmiede.com](https://cloudschmiede.com/)
